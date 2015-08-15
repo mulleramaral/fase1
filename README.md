@@ -2,9 +2,9 @@
 School of Net - Fase 1 Curso GitHub
 
 <pre>
-mkdir fase1<br>
-cd fase1<br>
-git init<br>
+mkdir fase1
+cd fase1
+git init
 vim index.php
 git status
 git add index.php
