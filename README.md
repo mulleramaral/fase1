@@ -1,8 +1,7 @@
 # fase1
 School of Net - Fase 1 Curso GitHub
 
-<code>
-mkdir fase1
+mkdir fase1<br>
 cd fase1
 git init
 vim index.php
